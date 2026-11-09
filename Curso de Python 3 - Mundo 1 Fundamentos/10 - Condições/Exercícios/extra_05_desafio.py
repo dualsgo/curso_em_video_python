@@ -11,12 +11,3 @@
 #   O ponto (-3.5, 2.0) está no 2º Quadrante.
 #
 # Dica: A ordem das condições importa: teste a origem (0, 0) antes de testar os eixos X e Y isoladamente!
-
-# Tarefa 1: Ler X e Y como float.
-
-
-# Tarefa 2: Verificar os casos especiais (origem e eixos) e depois os 4 quadrantes.
-
-
-# Tarefa 3: Exibir a localização exata do ponto.
-

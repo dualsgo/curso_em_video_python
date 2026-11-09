@@ -8,23 +8,3 @@
 # - 25 até 30: Sobrepeso
 # - 30 até 40: Obesidade
 # - Acima de 40: Obesidade Mórbida
-
-# Tarefa 1: Receber o peso e a altura para calcular o imc
-peso = float(input('Digite seu peso: Kg'))
-altura = float(input('Digite sua altura em metros: m'))
-
-
-# Tarefa 2: Formar a tabela com as condições para categorizar o imc
-imc = peso / (altura * altura)
-print(f'Seu IMC é {imc:.1f}.', end= ' ')
-if imc < 18.5:
-    print('Abaixo do peso')
-elif imc < 25:
-    print('Peso ideal')
-elif imc < 30:
-    print('Sobrepeso')
-elif imc < 40:
-    print('Obesidade')
-else:
-    print('Obesidade mórbida')
-# Tarefa 3: Exibir o resultado

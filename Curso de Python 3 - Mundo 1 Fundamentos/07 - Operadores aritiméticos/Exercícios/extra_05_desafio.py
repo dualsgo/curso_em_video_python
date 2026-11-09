@@ -9,12 +9,3 @@
 #   100: 2 | 50: 1 | 20: 1 | 10: 1 | 5: 1 | 2: 1 | 1: 1
 #
 # Dica: Use o operador de atribuição composta resto %= 100 para ir atualizando o que falta sacar.
-
-# Tarefa 1: Ler o valor inteiro do saque.
-
-
-# Tarefa 2: Para cada cédula (da maior para a menor), calcular a quantidade com // e atualizar o restante com %=.
-
-
-# Tarefa 3: Exibir a quantidade de cada cédula.
-

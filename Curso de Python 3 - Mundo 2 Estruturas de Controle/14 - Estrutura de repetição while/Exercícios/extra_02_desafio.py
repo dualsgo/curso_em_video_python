@@ -12,15 +12,3 @@
 #   Alerta! Bateria atingiu nível crítico (12%). Iniciando pouso automático!
 #
 # Dica: Cuidado para não deixar a bateria aparecer negativa no visor!
-
-# Tarefa 1: Iniciar bateria = 100 e total_minutos = 0.
-
-
-# Tarefa 2: Criar o laço while bateria > 15:.
-
-
-# Tarefa 3: Ler os minutos da manobra, descontar 4% por minuto e acumular o tempo de voo.
-
-
-# Tarefa 4: Exibir o resumo do voo ao sair do laço.
-

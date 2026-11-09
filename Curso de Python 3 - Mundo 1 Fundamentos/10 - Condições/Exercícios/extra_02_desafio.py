@@ -11,12 +11,3 @@
 #   Bem-vindo, Douglas! Status do cupom: Sem cupom de desconto.
 #
 # Dica: Em Python, não precisamos fazer if cupom != '': — basta escrever if cupom:!
-
-# Tarefa 1: Ler o nome e o cupom aplicando .strip().
-
-
-# Tarefa 2: Verificar 'if not nome:' para tratar nome vazio.
-
-
-# Tarefa 3: Verificar 'if cupom:' para decidir a mensagem do cupom.
-

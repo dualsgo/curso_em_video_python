@@ -12,12 +12,3 @@
 #   Total de ingressos vendidos: 3 | Poltronas livres: 17
 #
 # Dica: Valide também se a fileira está entre 0 e 3 e a poltrona entre 0 e 4 para evitar IndexError!
-
-# Tarefa 1: Criar a matriz 4x5 com [['[L]' for c in range(5)] for l in range(4)].
-
-
-# Tarefa 2: Criar o loop interativo exibindo a matriz a cada reserva.
-
-
-# Tarefa 3: Validar se o assento já está '[X]' antes de reservar e contabilizar vendas.
-

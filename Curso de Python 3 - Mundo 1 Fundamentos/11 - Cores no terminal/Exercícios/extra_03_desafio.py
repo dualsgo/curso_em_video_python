@@ -10,12 +10,3 @@
 #   Progresso: [███████████████░░░░░] 75%
 #
 # Dica: Como a barra tem 20 blocos, cada bloco representa 5% (100 / 20 = 5).
-
-# Tarefa 1: Ler o percentual (0 a 100).
-
-
-# Tarefa 2: Calcular quantos blocos cheios (int(percentual // 5)) e quantos vazios (20 - cheios).
-
-
-# Tarefa 3: Escolher a cor ANSI conforme a faixa percentual e exibir a barra completa.
-

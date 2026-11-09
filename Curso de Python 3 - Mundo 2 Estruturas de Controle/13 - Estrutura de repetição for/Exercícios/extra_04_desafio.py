@@ -14,12 +14,3 @@
 #   Resultado: SENHA FORTE!
 #
 # Dica: Você pode testar all([tem_tamanho, tem_maiuscula, tem_minuscula, tem_numero]) para aprovar a senha!
-
-# Tarefa 1: Ler a senha pelo teclado.
-
-
-# Tarefa 2: Usar variáveis booleanas (flags) ou any()/all() percorrendo cada caractere da senha.
-
-
-# Tarefa 3: Exibir um checklist mostrando quais requisitos passaram e quais falharam.
-

@@ -12,12 +12,3 @@
 #   Saldo Final: R$ -300.00 (em vermelho sublinhado: ORÇAMENTO NO VERMELHO!)
 #
 # Dica: Você pode guardar os códigos ANSI em variáveis como VERDE = '\033[1;32m' e RESET = '\033[m'.
-
-# Tarefa 1: Ler receita e despesa como float.
-
-
-# Tarefa 2: Calcular o saldo = receita - despesa.
-
-
-# Tarefa 3: Definir a cor do saldo dinamicamente com operador ternário e imprimir a tabela.
-

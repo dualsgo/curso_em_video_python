@@ -11,12 +11,3 @@
 #   Gandalf atacou Orc! Orc perdeu 25 de HP (HP restante: 55).
 #
 # Dica: Repare que passar 'personagem: dict' como 1º parâmetro de cada função é exatamente o que o 'self' faz em POO!
-
-# Tarefa 1: Implementar as 3 funções com Type Hints.
-
-
-# Tarefa 2: Criar dois personagens (heroi e monstro) usando criar_personagem().
-
-
-# Tarefa 3: Simular ataques entre eles e exibir os status antes e depois.
-

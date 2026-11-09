@@ -11,12 +11,3 @@
 #   1ª aparição no índice 1 | 2ª no índice 3 | 3ª no índice 5
 #
 # Dica: O segundo argumento de .index(elemento, inicio) diz ao Python a partir de qual posição começar a busca!
-
-# Tarefa 1: Definir a tupla de notas.
-
-
-# Tarefa 2: Usar .count(9) para contar as ocorrências.
-
-
-# Tarefa 3: Encontrar pos1 = notas.index(9), depois pos2 = notas.index(9, pos1 + 1) e pos3 = notas.index(9, pos2 + 1).
-

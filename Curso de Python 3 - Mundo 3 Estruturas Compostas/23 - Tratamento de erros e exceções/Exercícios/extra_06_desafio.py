@@ -12,12 +12,3 @@
 #   - Código Limpo (Robert Martin)    -> [DISPONÍVEL]
 #
 # Dica: Quando você guarda instâncias de Livro dentro de uma lista e chama livro.emprestar(), você já está programando em POO!
-
-# Tarefa 1: Definir a classe Livro com __init__(self, titulo: str, autor: str).
-
-
-# Tarefa 2: Implementar os métodos emprestar(self), devolver(self) e status(self) -> str.
-
-
-# Tarefa 3: Instanciar 3 objetos Livro em uma lista e simular empréstimos e devoluções.
-

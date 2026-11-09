@@ -11,12 +11,3 @@
 #   Após alterar deepcopy   -> turma_a: [['Ana', 8.5], ['Bruno', 7.0]] (PROTEGIDA!)
 #
 # Dica: Em listas de listas (ou listas de objetos), [:] copia apenas a casca externa!
-
-# Tarefa 1: Importar o módulo copy.
-
-
-# Tarefa 2: Demonstrar o efeito colateral da cópia rasa [:] em listas aninhadas.
-
-
-# Tarefa 3: Demonstrar o isolamento completo usando copy.deepcopy().
-

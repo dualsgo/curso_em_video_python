@@ -11,12 +11,3 @@
 #   Extrato original no banco (intacto): [100.0, -20.0, 50.0]
 #
 # Dica: Se fizéssemos apenas extrato_exibicao = extrato_interno, qualquer alteração apagaria os dados reais da conta!
-
-# Tarefa 1: Criar a lista extrato_interno.
-
-
-# Tarefa 2: Criar a cópia com .copy() (ou [:]) e fazer alterações nela.
-
-
-# Tarefa 3: Imprimir as duas listas e verificar que extrato_interno is not extrato_para_exibicao.
-

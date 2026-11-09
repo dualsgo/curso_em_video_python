@@ -11,12 +11,3 @@
 #   Após desconto de 15% (map): [2720.0, 3825.0, 5100.0]
 #
 # Dica: Lembre-se que map() e filter() retornam iteradores, então usamos list() para visualizar os valores.
-
-# Tarefa 1: Definir a lista de salários.
-
-
-# Tarefa 2: Aplicar list(filter(lambda s: s > 2500, salarios)).
-
-
-# Tarefa 3: Aplicar list(map(lambda s: round(s * 0.85, 2), filtrados)) e exibir.
-

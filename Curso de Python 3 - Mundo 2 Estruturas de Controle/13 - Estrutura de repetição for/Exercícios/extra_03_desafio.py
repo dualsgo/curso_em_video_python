@@ -12,12 +12,3 @@
 #   Nota final: 6.0 / 10.0
 #
 # Dica: A função zip() pareia o 1º caractere do gabarito com o 1º da resposta, o 2º com o 2º, e assim por diante.
-
-# Tarefa 1: Ler as duas strings de 5 letras (gabarito e respostas).
-
-
-# Tarefa 2: Percorrer ambas simultaneamente com for oficial, aluno in zip(gabarito, respostas):.
-
-
-# Tarefa 3: Contabilizar os acertos e exibir a nota final.
-

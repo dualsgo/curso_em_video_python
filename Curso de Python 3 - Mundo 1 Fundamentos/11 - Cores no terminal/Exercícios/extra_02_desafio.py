@@ -10,12 +10,3 @@
 #   [ERROR] Conexão com banco de dados falhou
 #
 # Dica: Use \033[1;30;41m[ERROR]\033[m para criar uma etiqueta com fundo vermelho!
-
-# Tarefa 1: Ler a mensagem e o nível do log.
-
-
-# Tarefa 2: Formatar a tag de acordo com o nível escolhido usando sequências ANSI.
-
-
-# Tarefa 3: Exibir o log formatado no console.
-

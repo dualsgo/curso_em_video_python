@@ -12,15 +12,3 @@
 #   Caixas completas sem recorte (floor): 4
 #
 # Dica: Não é possível comprar 4.55 caixas na loja, por isso math.ceil() arredonda sempre para o inteiro superior!
-
-# Tarefa 1: Importar ceil e floor do módulo math.
-
-
-# Tarefa 2: Ler a área da sala pelo teclado.
-
-
-# Tarefa 3: Calcular a divisão por 2.2 e aplicar ceil() e floor().
-
-
-# Tarefa 4: Exibir os resultados.
-

@@ -11,12 +11,3 @@
 #   Tupla RGB: (255, 87, 51) | Hexadecimal: #FF5733 | Brilho médio: 131.0
 #
 # Dica: O formato {:02X} converte um inteiro para Hexadecimal maiúsculo com 2 dígitos preenchidos com zero.
-
-# Tarefa 1: Ler R, G e B validando que estão entre 0 e 255.
-
-
-# Tarefa 2: Empacotar na tupla cor_rgb = (r, g, b).
-
-
-# Tarefa 3: Exibir o código Hexadecimal usando f'#{r:02X}{g:02X}{b:02X}' e o brilho médio.
-

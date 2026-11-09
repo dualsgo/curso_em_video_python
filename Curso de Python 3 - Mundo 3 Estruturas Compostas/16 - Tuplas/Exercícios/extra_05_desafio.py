@@ -15,12 +15,3 @@
 #   Total de alunos: 7 alunos únicos
 #
 # Dica: Este exercício conecta o estudo de Tuplas com o notebook conjuntos.ipynb da raiz do Mundo 3!
-
-# Tarefa 1: Converter as duas tuplas em conjuntos usando set().
-
-
-# Tarefa 2: Aplicar os operadores &, - e | (ou métodos .intersection(), .difference(), .union()).
-
-
-# Tarefa 3: Exibir os resultados.
-

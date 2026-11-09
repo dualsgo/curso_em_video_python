@@ -11,12 +11,3 @@
 #   [Herói na pos 1 | HP: 100] Comando: INVENTARIO -> (Módulo em construção com pass)
 #
 # Dica: A palavra-chave pass permite deixar blocos estruturados prontos para receber código depois sem gerar erro.
-
-# Tarefa 1: Inicializar posicao = 0 e hp = 100.
-
-
-# Tarefa 2: Criar o while True lendo o comando.
-
-
-# Tarefa 3: Implementar as ações, usar pass no bloco do inventário e break em 'SAIR'.
-

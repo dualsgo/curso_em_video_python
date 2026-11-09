@@ -11,12 +11,3 @@
 #   Digite um número (0 encerra): 91 -> 91 NÃO é primo (divisível por 7).
 #
 # Dica: Testar divisores só até a raiz quadrada torna a verificação instantânea mesmo para números de milhões!
-
-# Tarefa 1: Criar o while True externo para ler vários números.
-
-
-# Tarefa 2: Para cada número >= 2, percorrer range(2, int(n**0.5) + 1).
-
-
-# Tarefa 3: Usar break ao achar o primeiro divisor e else do for quando nenhum divisor for encontrado.
-

@@ -13,12 +13,3 @@
 #   Delta = 1.0 | Duas raízes reais: x1 = 3.00 e x2 = 2.00
 #
 # Dica: Lembre-se que raiz de Delta pode ser calculada como delta ** 0.5.
-
-# Tarefa 1: Ler os coeficientes A, B e C como float.
-
-
-# Tarefa 2: Testar se A == 0 antes de aplicar Bhaskara (evitando divisão por zero!).
-
-
-# Tarefa 3: Calcular o Delta e usar elif para tratar os 3 casos (< 0, == 0, > 0).
-

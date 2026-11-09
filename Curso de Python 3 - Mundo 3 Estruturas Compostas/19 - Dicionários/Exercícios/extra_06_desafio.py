@@ -12,12 +12,3 @@
 #   Histórico: ['+R$ 300.00', '+R$ 100.00', '-R$ 250.00']
 #
 # Dica: Quando você criar uma classe Conta em POO, self.titular e self.saldo serão exatamente essas chaves!
-
-# Tarefa 1: Criar o dicionário conta com as 4 chaves.
-
-
-# Tarefa 2: Realizar operações validando se o saque não ultrapassa (saldo + limite).
-
-
-# Tarefa 3: Adicionar strings descritivas em conta['historico'].append(...) e exibir o resumo.
-

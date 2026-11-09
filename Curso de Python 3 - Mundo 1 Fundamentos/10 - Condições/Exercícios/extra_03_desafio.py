@@ -13,12 +13,3 @@
 #   Prazo de compensação: Mesmo dia útil (até 17h).
 #
 # Dica: O case _: funciona como o else padrão do match/case.
-
-# Tarefa 1: Ler a modalidade aplicando .strip().upper().
-
-
-# Tarefa 2: Criar o bloco match modalidade: com os respectivos cases.
-
-
-# Tarefa 3: Usar o símbolo | para agrupar 'TED' | 'DOC' no mesmo case.
-

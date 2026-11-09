@@ -9,12 +9,3 @@
 #   6! = 720 | 8! = 40320 | MDC(6, 8) = 2
 #
 # Dica: O MDC (gcd) é muito útil para simplificar frações!
-
-# Tarefa 1: Importar factorial e gcd do módulo math.
-
-
-# Tarefa 2: Ler os inteiros A e B.
-
-
-# Tarefa 3: Exibir os fatoriais e o MDC.
-

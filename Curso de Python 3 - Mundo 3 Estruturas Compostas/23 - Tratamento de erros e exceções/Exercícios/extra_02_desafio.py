@@ -12,9 +12,3 @@
 #   Tentando cadastrar ('Ana', -5) -> Erro capturado: Idade fora do limite humano (0 a 130)!
 #
 # Dica: Em POO, os construtores (__init__) e setters usam 'raise ValueError(...)' exatamente assim para proteger atributos!
-
-# Tarefa 1: Definir a função com as 3 checagens usando raise.
-
-
-# Tarefa 2: Testar a função dentro de um bloco try / except (ValueError, TypeError) as erro:.
-

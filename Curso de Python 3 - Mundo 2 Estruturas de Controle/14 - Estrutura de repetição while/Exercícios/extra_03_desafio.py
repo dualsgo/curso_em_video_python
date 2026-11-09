@@ -12,12 +12,3 @@
 #   6 -> 3 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1 (Total de 8 passos)
 #
 # Dica: Use divisão inteira // 2 para que os números da sequência continuem sendo int e não float.
-
-# Tarefa 1: Ler um inteiro N > 1 (validando com while se N <= 1).
-
-
-# Tarefa 2: Criar o laço while n != 1: aplicando a regra par/ímpar e contando os passos.
-
-
-# Tarefa 3: Exibir a sequência na mesma linha usando end=' -> ' e o total de passos no final.
-

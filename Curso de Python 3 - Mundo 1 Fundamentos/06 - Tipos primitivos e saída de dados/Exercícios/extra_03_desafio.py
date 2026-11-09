@@ -13,12 +13,3 @@
 #   Diferença absoluta    : 0.1
 #
 # Dica: A função abs() garante que a distância entre dois números seja sempre positiva, mesmo que n1 < n2.
-
-# Tarefa 1: Ler dois valores float pelo teclado.
-
-
-# Tarefa 2: Calcular a soma e exibir tanto o valor bruto quanto o arredondado com round().
-
-
-# Tarefa 3: Calcular a diferença absoluta usando abs(n1 - n2) e exibir.
-

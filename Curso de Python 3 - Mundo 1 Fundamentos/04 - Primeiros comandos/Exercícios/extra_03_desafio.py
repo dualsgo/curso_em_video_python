@@ -11,9 +11,3 @@
 #       — Guido van Rossum
 #
 # Dica: Use \t para dar o recuo de tabulação antes do travessão do autor.
-
-# Tarefa 1: Ler o nome do autor e a frase usando input().
-
-
-# Tarefa 2: Exibir a citação usando caracteres de escape (\", \n e \t) ou alternando aspas simples e duplas.
-

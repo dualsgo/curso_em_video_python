@@ -13,15 +13,3 @@
 #   Em 2026 você completa 26 anos.
 #
 # Dica: Observe que hoje.year já é um atributo do objeto date retornado por date.today()!
-
-# Tarefa 1: Importar date do módulo datetime.
-
-
-# Tarefa 2: Obter a data de hoje com hoje = date.today().
-
-
-# Tarefa 3: Extrair hoje.year, hoje.month e hoje.day.
-
-
-# Tarefa 4: Ler o ano de nascimento e calcular a idade no ano atual.
-

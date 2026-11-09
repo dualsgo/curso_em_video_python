@@ -13,12 +13,3 @@
 #   Classificação: PULSEIRA AMARELA (Atendimento Urgente)
 #
 # Dica: Em triagens, sempre verificamos os casos críticos primeiro no topo do if!
-
-# Tarefa 1: Ler temperatura, falta de ar e nível de dor.
-
-
-# Tarefa 2: Avaliar da condição mais grave (Vermelha) para a mais leve (Azul) usando if/elif/else.
-
-
-# Tarefa 3: Exibir a cor da pulseira com formatação ANSI.
-

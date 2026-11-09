@@ -15,9 +15,3 @@
 #   Memória RAM......................:   16 GB
 #
 # Dica: Note como separar a formatação visual da lógica de negócio deixa o programa principal muito mais limpo!
-
-# Tarefa 1: Implementar linha(), cabecalho() e tabela_chave_valor().
-
-
-# Tarefa 2: Passar um dicionário de especificações para tabela_chave_valor() no bloco __main__.
-

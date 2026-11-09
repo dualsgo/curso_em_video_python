@@ -10,12 +10,3 @@
 #   resumo_numeros() -> {'qtd': 0, 'soma': 0, 'media': 0.0, 'maior': None, 'menor': None}
 #
 # Dica: Testar 'if not numeros:' protege a função caso alguém chame resumo_numeros() sem argumentos!
-
-# Tarefa 1: Definir def resumo_numeros(*numeros: float) -> dict:.
-
-
-# Tarefa 2: Verificar 'if not numeros:' para retornar valores zerados/None sem dar erro de divisão por zero.
-
-
-# Tarefa 3: Testar a função chamando-a com 4 números, com 2 números e vazia.
-

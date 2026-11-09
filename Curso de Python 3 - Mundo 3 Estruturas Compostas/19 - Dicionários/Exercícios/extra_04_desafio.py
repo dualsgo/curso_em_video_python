@@ -11,12 +11,3 @@
 #   Estoque Consolidado: {'Teclado': 10, 'Mouse': 40, 'Monitor': 13, 'Headset': 12}
 #
 # Dica: Se usássemos apenas .update(), o valor de 'Mouse' seria sobrescrito por 15 em vez de somar 25 + 15 = 40!
-
-# Tarefa 1: Copiar o dicionário matriz para estoque_total = matriz.copy().
-
-
-# Tarefa 2: Percorrer filial.items() somando ao valor existente com estoque_total.get(prod, 0) + qtd.
-
-
-# Tarefa 3: Exibir o estoque consolidado e o total geral de peças.
-

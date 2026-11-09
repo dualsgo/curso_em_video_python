@@ -10,12 +10,3 @@
 #   (Exibe o painel com cores contrastantes e reset limpo no final)
 #
 # Dica: O estilo 7 (\033[7m) inverte as cores de frente e fundo atuais do terminal.
-
-# Tarefa 1: Ler o título e o tema preferido.
-
-
-# Tarefa 2: Aplicar a combinação de estilo, texto e fundo correspondente.
-
-
-# Tarefa 3: Exibir o cabeçalho centralizado em 50 colunas.
-

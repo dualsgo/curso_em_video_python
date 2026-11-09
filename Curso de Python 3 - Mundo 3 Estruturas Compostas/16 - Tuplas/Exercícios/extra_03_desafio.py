@@ -13,9 +13,3 @@
 #   Últimos 3: ('Piastri', 'Alonso', 'Gasly')
 #
 # Dica: Note que sorted(tupla) retorna uma lista ordenada sem modificar a tupla original.
-
-# Tarefa 1: Definir a tupla com 10 nomes de pilotos.
-
-
-# Tarefa 2: Exibir os recortes usando [:3], [-3:], [::2] e sorted(pilotos).
-

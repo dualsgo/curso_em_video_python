@@ -11,12 +11,3 @@
 #   Total: R$ 25.50 | Valor pago: R$ 50.00 | Troco: R$ 24.50
 #
 # Dica: Use um contador para numerar 'Produto 1', 'Produto 2' apenas quando o preço for válido!
-
-# Tarefa 1: Ler os preços dos produtos em um while True acumulando o total.
-
-
-# Tarefa 2: Ao digitar 0, sair do laço de produtos com break.
-
-
-# Tarefa 3: Se o total for > 0, ler o valor pago e calcular o troco.
-

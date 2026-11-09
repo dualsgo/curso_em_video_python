@@ -11,12 +11,3 @@
 #   2.5m = 250cm | 2500mm | 1.2km = 1200m
 #
 # Dica: Sempre use if __name__ == '__main__': em seus módulos para poder importá-los sem disparar inputs indesejados!
-
-# Tarefa 1: Implementar as 3 funções de conversão com Type Hints e Docstrings.
-
-
-# Tarefa 2: Criar o bloco if __name__ == '__main__': na base do arquivo.
-
-
-# Tarefa 3: Colocar os prints de demonstração e input dentro do bloco protegido.
-

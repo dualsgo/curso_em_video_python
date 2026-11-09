@@ -12,12 +12,3 @@
 #   Média final: 8.00
 #
 # Dica: Validar cada entrada individualmente impede que o usuário precise redigitar a 1ª nota se errar apenas a 2ª.
-
-# Tarefa 1: Ler a 1ª nota e validar com while nota1 < 0 or nota1 > 10:.
-
-
-# Tarefa 2: Ler a 2ª nota e validar com while nota2 < 0 or nota2 > 10:.
-
-
-# Tarefa 3: Calcular e mostrar a média.
-

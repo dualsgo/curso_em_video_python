@@ -11,12 +11,3 @@
 #   c1() -> 11 | c1(5) -> 16
 #
 # Dica: Uma Closure que guarda estado é a irmã gêmea funcional de um Objeto em POO!
-
-# Tarefa 1: Definir criar_contador(inicio=0) com a variável local valor = inicio.
-
-
-# Tarefa 2: Definir a função interna incrementar(passo=1) usando 'nonlocal valor'.
-
-
-# Tarefa 3: Criar dois contadores independentes c1 e c2 e testar chamadas sucessivas.
-

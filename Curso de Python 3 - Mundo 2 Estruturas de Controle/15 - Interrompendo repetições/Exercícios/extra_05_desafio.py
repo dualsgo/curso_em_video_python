@@ -10,12 +10,3 @@
 #   Subidas: 2 | Quedas: 1 | Maior: 25.0°C | Menor: 20.0°C
 #
 # Dica: Na 1ª leitura ainda não há temperatura anterior para comparar; inicialize anterior = None e teste if anterior is not None:.
-
-# Tarefa 1: Criar o while True lendo a temperatura (999 dá break).
-
-
-# Tarefa 2: Guardar a temperatura_anterior a cada volta para comparar com a atual (a partir da 2ª leitura).
-
-
-# Tarefa 3: Exibir o relatório completo ao final.
-

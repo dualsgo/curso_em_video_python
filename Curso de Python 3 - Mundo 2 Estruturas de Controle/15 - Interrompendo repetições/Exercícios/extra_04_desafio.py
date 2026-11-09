@@ -13,12 +13,3 @@
 #   Vencedor: Ana com R$ 600.00!
 #
 # Dica: Inicie nome_vencedor = '' (ou None) para saber no final se alguém deu algum lance válido.
-
-# Tarefa 1: Ler o item e o lance mínimo.
-
-
-# Tarefa 2: Manter variáveis maior_lance e nome_vencedor.
-
-
-# Tarefa 3: Validar cada novo lance no while True usando continue para lances baixos e break para 'ENCERRAR'.
-

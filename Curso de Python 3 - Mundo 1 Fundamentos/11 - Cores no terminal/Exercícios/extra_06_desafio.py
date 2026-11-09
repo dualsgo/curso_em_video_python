@@ -11,12 +11,3 @@
 #   HP: 25/100 (alerta em vermelho) | Mana: 80/100 (em azul)
 #
 # Dica: Isolar configurações no topo do código facilita alterar as cores do programa inteiro em um único lugar!
-
-# Tarefa 1: Definir as constantes de cores no topo do script.
-
-
-# Tarefa 2: Ler o nome, o HP atual (0 a 100) e a Mana atual (0 a 100) do personagem.
-
-
-# Tarefa 3: Exibir a ficha colorindo o HP de vermelho se for menor que 30, amarelo se < 70 ou verde se >= 70.
-

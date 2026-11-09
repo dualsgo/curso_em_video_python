@@ -10,12 +10,3 @@
 #   Objeto 2 -> Valor: 42       | Tipo: <class 'int'> | ID na memória: 140710...
 #
 # Dica: A função id(variavel) mostra o endereço numérico único daquele objeto na memória RAM.
-
-# Tarefa 1: Ler uma string e um inteiro pelo teclado.
-
-
-# Tarefa 2: Usar as funções built-in type() e id() para inspecionar cada variável.
-
-
-# Tarefa 3: Exibir o relatório completo de ambos os objetos.
-

@@ -13,12 +13,3 @@
 #   [RECUSADO] Saldo insuficiente! Faltam R$ 100.00.
 #
 # Dica: Em uma classe ContaBancaria, essa lógica ficará dentro do método sacar(self, valor).
-
-# Tarefa 1: Definir saldo_atual = 500.0 e ler o status da conta e o valor do saque.
-
-
-# Tarefa 2: Criar as validações condicionais protegendo o saldo de ficar negativo.
-
-
-# Tarefa 3: Exibir o novo saldo caso aprovado ou o motivo exato do bloqueio.
-

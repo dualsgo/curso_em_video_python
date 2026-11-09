@@ -11,12 +11,3 @@
 #   Círculo de raio 5 -> Área: 78.54 | Comprimento: 31.42
 #
 # Dica: Agrupar funções do mesmo domínio (Geometria) é o primeiro princípio da boa modularização.
-
-# Tarefa 1: Importar pi do módulo math.
-
-
-# Tarefa 2: Definir as 5 funções geométricas.
-
-
-# Tarefa 3: Testar todas as funções no bloco principal formatando com 2 casas decimais.
-

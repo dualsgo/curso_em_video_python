@@ -9,15 +9,3 @@
 #   A distância entre A e B é: 5.00
 #
 # Dica: math.hypot(dx, dy) calcula automaticamente sqrt(dx**2 + dy**2).
-
-# Tarefa 1: Importar hypot ou sqrt do módulo math.
-
-
-# Tarefa 2: Ler x1, y1, x2 e y2 como float.
-
-
-# Tarefa 3: Calcular a distância usando math.hypot(x2 - x1, y2 - y1).
-
-
-# Tarefa 4: Exibir a distância com 2 casas decimais.
-

@@ -11,15 +11,3 @@
 #   Iteração 1: 7.25000 | Iteração 2: 5.34914 | ... | Raiz aproximada: 5.00000
 #
 # Dica: Esse é o algoritmo clássico que calculadoras usam internamente para extrair raízes!
-
-# Tarefa 1: Ler o número X > 0.
-
-
-# Tarefa 2: Inicializar palpite = X / 2 e contador de iterações = 0.
-
-
-# Tarefa 3: Executar o laço while abs(palpite * palpite - X) > 0.0001: atualizando o palpite.
-
-
-# Tarefa 4: Exibir a raiz encontrada e quantas iterações foram necessárias.
-

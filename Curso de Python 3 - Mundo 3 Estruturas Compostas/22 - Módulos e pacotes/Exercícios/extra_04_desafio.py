@@ -12,12 +12,3 @@
 #   Módulo 'math' -> Funções (60): ['acos', 'acosh', 'asin', ...]
 #
 # Dica: A função built-in callable(obj) retorna True se o objeto for uma função/classe e False se for um dado/constante!
-
-# Tarefa 1: Importar o módulo math.
-
-
-# Tarefa 2: Iterar sobre dir(math) filtrando nomes que não começam com '_'.
-
-
-# Tarefa 3: Usar obj = getattr(math, nome) e testar if callable(obj): para separar constantes de funções.
-

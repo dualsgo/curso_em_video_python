@@ -11,12 +11,3 @@
 #   Frete: R$ 25.00 | Total a pagar: R$ 145.00
 #
 # Dica: Sintaxe do operador ternário: valor_se_true if condicao else valor_se_false.
-
-# Tarefa 1: Ler o valor da compra como float.
-
-
-# Tarefa 2: Calcular frete = 0.0 if compra >= 150 else 25.0.
-
-
-# Tarefa 3: Exibir o valor do frete e o total somado.
-

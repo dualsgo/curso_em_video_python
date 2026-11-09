@@ -14,12 +14,3 @@
 #   Faixa: 15% | Imposto: R$ 525.00 | Salário Líquido: R$ 2975.00
 #
 # Dica: Como os elif são mutuamente exclusivos, se o primeiro for falso você já sabe que o salário é maior que o limite anterior.
-
-# Tarefa 1: Ler o salário bruto como float.
-
-
-# Tarefa 2: Usar if / elif / else para identificar o percentual da faixa.
-
-
-# Tarefa 3: Calcular o valor do imposto e o salário líquido e exibir na tela.
-

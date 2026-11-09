@@ -13,12 +13,3 @@
 #   Como bool : False (<class 'bool'>)
 #
 # Dica: Teste digitar 0 e depois um número diferente de 0 para observar a mudança no bool()!
-
-# Tarefa 1: Ler o valor digitado pelo usuário.
-
-
-# Tarefa 2: Converter para int, float e bool armazenando em variáveis separadas.
-
-
-# Tarefa 3: Exibir cada valor acompanhado do seu respectivo type().
-

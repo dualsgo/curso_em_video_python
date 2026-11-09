@@ -13,12 +13,3 @@
 #   Mesma letra em minúsculo : b
 #
 # Dica: Na tabela ASCII, 'A' vale 65 e 'a' vale 97 (uma distância exata de 32 posições).
-
-# Tarefa 1: Ler um caractere pelo teclado.
-
-
-# Tarefa 2: Obter o código numérico com codigo = ord(letra).
-
-
-# Tarefa 3: Calcular chr(codigo + 1) e chr(codigo + 32) e exibir os resultados.
-

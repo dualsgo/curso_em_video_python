@@ -9,15 +9,3 @@
 #   3665 segundos equivalem a: 1h 1min 5s
 #
 # Dica: 1 hora = 3600 segundos; 1 minuto = 60 segundos.
-
-# Tarefa 1: Ler o total de segundos como int.
-
-
-# Tarefa 2: Calcular as horas (total // 3600) e o que sobrou (total % 3600).
-
-
-# Tarefa 3: Calcular os minutos (sobra // 60) e os segundos finais (sobra % 60).
-
-
-# Tarefa 4: Exibir o resultado formatado.
-

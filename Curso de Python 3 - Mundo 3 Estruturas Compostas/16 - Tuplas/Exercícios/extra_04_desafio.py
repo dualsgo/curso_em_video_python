@@ -11,12 +11,3 @@
 #   Prato mais caro: Salmão Grelhado (R$ 68.90)
 #
 # Dica: Você pode desempacotar diretamente no cabeçalho do for: for prato, categoria, preco in cardapio:.
-
-# Tarefa 1: Criar a tupla aninhada com 5 pratos.
-
-
-# Tarefa 2: Iterar desempacotando os 3 campos de cada sub-tupla.
-
-
-# Tarefa 3: Calcular a média de preços e identificar o prato mais caro.
-

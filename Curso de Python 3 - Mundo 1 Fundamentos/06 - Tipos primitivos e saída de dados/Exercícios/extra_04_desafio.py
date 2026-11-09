@@ -12,12 +12,3 @@
 #   Distância aproximada (3e8) : 600,000,000.00 metros
 #
 # Dica: Na f-string, o especificador {:,.2f} adiciona separador de milhar e fixa 2 casas decimais.
-
-# Tarefa 1: Declarar luz_exata = 299_792_458 e luz_aprox = 3e8.
-
-
-# Tarefa 2: Ler a quantidade de segundos como float ou int.
-
-
-# Tarefa 3: Exibir os resultados formatados nas f-strings (ex: {distancia:,.2f}).
-

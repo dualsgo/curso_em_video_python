@@ -10,12 +10,3 @@
 #   converter_moeda(100, 'ARS', ARS=0.006) -> 16666.67
 #
 # Dica: Combinar valores padrão com **kwargs é um padrão muito usado em bibliotecas profissionais do Python.
-
-# Tarefa 1: Criar o dicionário de cotações padrão dentro da função.
-
-
-# Tarefa 2: Atualizar com cotacoes_customizadas usando .update().
-
-
-# Tarefa 3: Retornar o valor convertido (ou None se a moeda não existir).
-

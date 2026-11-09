@@ -14,12 +14,3 @@
 #   Estado da tela.........: Ligada
 #
 # Dica: Pense em cada variável lida como um atributo que futuramente pertencerá a uma classe Smartphone.
-
-# Tarefa 1: Ler os 4 atributos do objeto pelo teclado.
-
-
-# Tarefa 2: Exibir o cabeçalho da ficha de inspeção.
-
-
-# Tarefa 3: Exibir cada atributo formatado de forma clara no console.
-

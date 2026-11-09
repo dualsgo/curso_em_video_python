@@ -10,12 +10,3 @@
 #   Resumo da Auditoria: 1 zerado | 2 em alerta | Maior estoque: Cabo HDMI (45 un.)
 #
 # Dica: Em POO, esse padrão de percorrer vários itens chamando uma verificação é a base do Polimorfismo e coleções de objetos.
-
-# Tarefa 1: Inicializar contadores de zerados, em alerta e variáveis para o maior estoque.
-
-
-# Tarefa 2: Criar o laço for para ler os 4 produtos.
-
-
-# Tarefa 3: Atualizar as estatísticas a cada iteração e exibir o relatório final.
-

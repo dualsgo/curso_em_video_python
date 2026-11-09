@@ -7,12 +7,3 @@
 # ~~~~~~~~~
 #  Olá, Mundo!
 # ~~~~~~~~~
-
-def escreva(texto_qualquer):
-    tamanho = len(texto_qualquer) + 2
-    print('~' * tamanho)
-    print(f'{texto_qualquer:^{tamanho}}')
-    print('~' * tamanho)
-
-
-escreva(str(input('Digite o texto que deseja exibir: ')))

@@ -12,12 +12,3 @@
 #   Original mudou?: False (continua igual pois str é imutável)
 #
 # Dica: Cada ponto (.) chama um método sobre o novo objeto string retornado pelo método anterior!
-
-# Tarefa 1: Guardar o texto original lido na variável titulo_original.
-
-
-# Tarefa 2: Criar a variável slug aplicando .strip().lower().replace(' ', '-') e trocando vogais acentuadas comuns.
-
-
-# Tarefa 3: Exibir o título original e o slug, além do id() de cada um.
-

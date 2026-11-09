@@ -11,12 +11,3 @@
 #   [TRANSIÇÃO INVÁLIDA] Não é possível enviar um pedido que ainda não foi pago!
 #
 # Dica: Em POO, cada ação dessas ('pagar', 'enviar', 'cancelar') será um método da classe Pedido!
-
-# Tarefa 1: Ler o estado atual e a ação desejada.
-
-
-# Tarefa 2: Usar condições aninhadas para verificar se a ação é válida para aquele estado atual.
-
-
-# Tarefa 3: Exibir o novo estado do pedido ou a mensagem de erro de transição.
-

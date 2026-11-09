@@ -12,12 +12,3 @@
 #   2º Matrix (1999)       - Nota: 9.2
 #
 # Dica: Em um dicionário aninhado, item[0] é a chave externa (título) e item[1]['nota'] acessa a nota interna!
-
-# Tarefa 1: Criar o dicionário aninhado com 4 filmes.
-
-
-# Tarefa 2: Ler um gênero e filtrar percorrendo filmes.items().
-
-
-# Tarefa 3: Ordenar usando sorted(filmes.items(), key=lambda item: item[1]['nota'], reverse=True).
-

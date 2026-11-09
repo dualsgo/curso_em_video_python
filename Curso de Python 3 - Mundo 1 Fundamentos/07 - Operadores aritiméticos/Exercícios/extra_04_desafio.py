@@ -14,12 +14,3 @@
 #   C) Idade inválida (<1 ou >120)? False
 #
 # Dica: Em Python, você pode encadear comparações diretamente: 18 <= idade <= 65.
-
-# Tarefa 1: Ler a idade (int) e a resposta da CNH (str).
-
-
-# Tarefa 2: Criar três variáveis booleanas usando <=, and, or e ==.
-
-
-# Tarefa 3: Exibir os três resultados booleanos na tela.
-

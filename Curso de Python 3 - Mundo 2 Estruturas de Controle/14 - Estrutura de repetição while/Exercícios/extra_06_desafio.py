@@ -11,12 +11,3 @@
 #   Escolha uma opção: 4 -> Volume aumentado para 16.
 #
 # Dica: Este exercício é exatamente o modelo mental de uma classe Televisao com seus atributos e métodos!
-
-# Tarefa 1: Inicializar ligada = False, canal = 1, volume = 10.
-
-
-# Tarefa 2: Criar o loop do menu exibindo o painel de status da TV no topo a cada repetição.
-
-
-# Tarefa 3: Bloquear alterações de canal/volume quando ligada for False e respeitar os limites de canal e volume.
-

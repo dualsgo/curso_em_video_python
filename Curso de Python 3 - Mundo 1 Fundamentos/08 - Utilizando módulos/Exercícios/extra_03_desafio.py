@@ -9,15 +9,3 @@
 #   3 dezenas sorteadas sem repetição: [12, 45, 7]
 #
 # Dica: Diferente de choices(), a função random.sample() garante que nenhum elemento sorteado se repita.
-
-# Tarefa 1: Importar randint e sample do módulo random.
-
-
-# Tarefa 2: Gerar o token de 6 dígitos com randint(100000, 999999).
-
-
-# Tarefa 3: Sortear 3 dezenas únicas com sample(range(1, 61), 3).
-
-
-# Tarefa 4: Exibir ambos na tela.
-

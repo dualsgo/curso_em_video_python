@@ -14,12 +14,3 @@
 #   Por melhor avaliação: Mouse (4.9), Monitor (4.7), Teclado (4.5)
 #
 # Dica: O parâmetro key= recebe uma função que diz ao Python qual campo usar na comparação!
-
-# Tarefa 1: Definir a lista de dicionários de produtos.
-
-
-# Tarefa 2: Ordenar por preço usando sorted(produtos, key=lambda item: item['preco']).
-
-
-# Tarefa 3: Ordenar por avaliação usando reverse=True e exibir ambos os rankings.
-

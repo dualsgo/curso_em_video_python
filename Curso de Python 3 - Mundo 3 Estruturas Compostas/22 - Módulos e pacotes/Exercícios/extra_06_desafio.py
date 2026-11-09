@@ -11,9 +11,3 @@
 #   Valor total em estoque após +10% reajuste: R$ 4950.00
 #
 # Dica: Separar Dados, Regras e Interface é o passo arquitetural imediato antes do padrão MVC em POO!
-
-# Tarefa 1: Estruturar os dados, as funções de negócio e a função de exibição separadamente.
-
-
-# Tarefa 2: Orquestrar as chamadas dentro de if __name__ == '__main__':.
-

@@ -12,12 +12,3 @@
 #   Subtotal: R$ 60.00 | Com 10% desc: R$ 54.00 | Com bônus VIP: R$ 46.00
 #
 # Dica: Garanta que o valor final nunca fique negativo usando max(0, total) ou um if simples.
-
-# Tarefa 1: Ler o tipo de veículo, horas e status VIP.
-
-
-# Tarefa 2: Usar match/case ou if/elif para definir a tarifa por hora.
-
-
-# Tarefa 3: Aplicar as condições aninhadas de desconto por tempo e bônus VIP.
-

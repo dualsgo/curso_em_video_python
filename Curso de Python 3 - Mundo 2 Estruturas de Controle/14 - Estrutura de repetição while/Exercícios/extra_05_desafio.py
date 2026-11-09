@@ -13,12 +13,3 @@
 #   CONTA BLOQUEADA POR SEGURANÇA!
 #
 # Dica: Lembre-se: o else de um loop while só é executado se o loop terminar normalmente (sem break)!
-
-# Tarefa 1: Definir a senha correta e iniciar tentativas = 0.
-
-
-# Tarefa 2: Criar o while tentativas < 3: lendo a senha.
-
-
-# Tarefa 3: Usar break caso acerte e o bloco else: do while para a mensagem de bloqueio.
-

@@ -11,15 +11,3 @@
 #   Fila restante: ['Julia', 'Pedro', 'Carla']
 #
 # Dica: Enquanto .pop() sem argumento remove o último, .pop(0) remove e retorna o primeiro elemento da lista!
-
-# Tarefa 1: Criar a lista inicial com 3 nomes.
-
-
-# Tarefa 2: Ler 2 novos nomes e usar .append().
-
-
-# Tarefa 3: Usar .pop(0) duas vezes guardando o retorno para exibir quem foi chamado.
-
-
-# Tarefa 4: Exibir a fila atualizada.
-

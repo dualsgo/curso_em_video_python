@@ -11,12 +11,3 @@
 #   {'nome': 'Ana', 'email': 'ana@email.com', 'cargo': 'Engenheira', 'remoto': True}
 #
 # Dica: O parâmetro **kwargs captura todos os argumentos nomeados extras em um dicionário!
-
-# Tarefa 1: Definir a função recebendo nome, email e **extras.
-
-
-# Tarefa 2: Criar o dicionário base {'nome': nome, 'email': email} e atualizar com extras (usando .update(extras)).
-
-
-# Tarefa 3: Exibir o perfil retornado percorrendo suas chaves e valores.
-

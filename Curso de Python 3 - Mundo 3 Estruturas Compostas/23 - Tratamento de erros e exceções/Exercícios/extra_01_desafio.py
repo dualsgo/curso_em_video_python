@@ -12,12 +12,3 @@
 #   [ERRO] Não é possível realizar divisão por zero!
 #
 # Dica: Capturar exceções específicas (ValueError, ZeroDivisionError) é muito melhor que um except genérico!
-
-# Tarefa 1: Criar o dicionário operacoes = {'+': lambda a, b: a + b, ...}.
-
-
-# Tarefa 2: Colocar a leitura e o cálculo dentro do bloco try:.
-
-
-# Tarefa 3: Capturar cada exceção específica com mensagens claras e exibir o resultado no else:.
-

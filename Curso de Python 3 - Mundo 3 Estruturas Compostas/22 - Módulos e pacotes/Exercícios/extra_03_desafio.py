@@ -11,9 +11,3 @@
 #   validar_cpf_formato('123.456.789-01') -> True
 #
 # Dica: Em POO, essas funções costumam virar métodos estáticos (@staticmethod) de validação!
-
-# Tarefa 1: Implementar as 3 funções limpando caracteres de formatação antes de validar.
-
-
-# Tarefa 2: Criar uma bateria de testes no bloco __main__ com entradas válidas e inválidas.
-

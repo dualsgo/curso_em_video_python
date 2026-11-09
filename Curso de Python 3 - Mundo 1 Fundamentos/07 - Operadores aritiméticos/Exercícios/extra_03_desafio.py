@@ -12,12 +12,3 @@
 #   17 << 2 (x4): 68 | 17 >> 1 (//2): 8
 #
 # Dica: Nas f-strings você também pode usar diretamente {n:b}, {n:o} e {n:X}.
-
-# Tarefa 1: Ler um número inteiro.
-
-
-# Tarefa 2: Exibir as conversões de base com format() ou f-strings ({n:b}, {n:o}, {n:x}).
-
-
-# Tarefa 3: Calcular e exibir n << 2 e n >> 1.
-

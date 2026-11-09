@@ -9,15 +9,3 @@
 #   Depois da troca -> Copo A: Leite | Copo B: Café
 #
 # Dica: Em Python, você pode fazer copo_a, copo_b = copo_b, copo_a em uma única linha!
-
-# Tarefa 1: Ler os valores iniciais de copo_a e copo_b pelo teclado.
-
-
-# Tarefa 2: Exibir os valores antes da troca.
-
-
-# Tarefa 3: Realizar a troca de valores (teste fazer tanto com variável auxiliar quanto com atribuição múltipla a, b = b, a).
-
-
-# Tarefa 4: Exibir os valores após a troca.
-

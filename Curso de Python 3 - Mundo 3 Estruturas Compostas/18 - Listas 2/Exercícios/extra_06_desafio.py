@@ -9,12 +9,3 @@
 #   Buscar ID: 102 -> Produto: Mouse Gamer | Estoque anterior: 10 | Baixa de 3 -> Novo estoque: 7
 #
 # Dica: Aqui cada sublista funciona como um objeto Produto com 4 atributos (id, nome, preco, estoque).
-
-# Tarefa 1: Criar a lista aninhada com 3 produtos.
-
-
-# Tarefa 2: Ler o ID desejado e a quantidade para dar baixa.
-
-
-# Tarefa 3: Percorrer as sublistas procurando o ID na posição [0] e atualizar a posição [3] (estoque).
-

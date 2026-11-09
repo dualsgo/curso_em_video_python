@@ -11,12 +11,3 @@
 #   Duplicados removidos: 4 itens
 #
 # Dica: Compare len(bruta) - len(unicos) para saber exatamente quantas duplicatas existiam.
-
-# Tarefa 1: Ler os 8 números para a lista bruta.
-
-
-# Tarefa 2: Percorrer a lista bruta e adicionar na lista unicos apenas se 'num not in unicos'.
-
-
-# Tarefa 3: Exibir ambas as listas e quantos repetidos foram filtrados.
-

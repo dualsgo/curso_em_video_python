@@ -11,12 +11,3 @@
 #   Com 10% de desconto : [108.0, 225.0, 279.0]
 #
 # Dica: Sintaxe da List Comprehension com filtro: [expressao for item in lista if condicao].
-
-# Tarefa 1: Definir a lista de preços brutos.
-
-
-# Tarefa 2: Criar a compreensão [p for p in precos if p > 100].
-
-
-# Tarefa 3: Criar a compreensão [round(p * 0.9, 2) for p in precos if p > 100] e exibir.
-

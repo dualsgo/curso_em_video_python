@@ -9,12 +9,3 @@
 #   Peso: 75 | Altura: 1.75 -> IMC: 24.49 (Peso Normal)
 #
 # Dica: Quando uma função tem 'return a, b', o Python empacota ambos automaticamente em uma tupla!
-
-# Tarefa 1: Definir a função calcular_imc com anotações de tipo (Type Hints).
-
-
-# Tarefa 2: Retornar return round(imc, 2), classificacao.
-
-
-# Tarefa 3: Chamar a função desempacotando: imc, status = calcular_imc(p, a).
-

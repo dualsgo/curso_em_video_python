@@ -13,12 +13,3 @@
 #   p1.exibir_etiqueta() -> Notebook | R$ 3500.00 | 3 un. (Total: R$ 10500.00)
 #
 # Dica: Lembre-se: 'self' sempre é o primeiro parâmetro dos métodos e refere-se ao próprio objeto que chamou o método!
-
-# Tarefa 1: Declarar class Produto: com __init__, repor, vender e exibir_etiqueta.
-
-
-# Tarefa 2: Instanciar 2 produtos diferentes (p1 e p2).
-
-
-# Tarefa 3: Chamar os métodos de cada objeto dentro de um bloco try/except.
-

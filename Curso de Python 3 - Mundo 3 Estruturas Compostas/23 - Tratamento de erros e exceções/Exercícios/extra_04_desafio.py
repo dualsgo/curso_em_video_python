@@ -11,12 +11,3 @@
 #   Clientes recuperados do disco: 3 registros.
 #
 # Dica: O formato JSON preserva tipos como int, float, bool, list e dict automaticamente!
-
-# Tarefa 1: Importar o módulo json.
-
-
-# Tarefa 2: Criar a lista de clientes e gravar no arquivo com with open('clientes.json', 'w', encoding='utf-8').
-
-
-# Tarefa 3: Ler o arquivo de volta com json.load() e exibir os dados formatados.
-

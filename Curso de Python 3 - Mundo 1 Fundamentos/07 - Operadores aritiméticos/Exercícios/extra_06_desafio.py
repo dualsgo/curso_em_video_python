@@ -14,9 +14,3 @@
 #   Mesmo objeto (cliente_1 is apelido_cliente_1)? True
 #
 # Dica: Entender a diferença entre == e is evita bugs graves quando manipulamos objetos em POO.
-
-# Tarefa 1: Declarar as três variáveis conforme o enunciado.
-
-
-# Tarefa 2: Comparar usando == e is, exibindo também o id() de cada uma para comprovar.
-

@@ -12,12 +12,3 @@
 #   Web: https://meusite.com/douglas/projetos/main.py
 #
 # Dica: Como a barra invertida \ é caractere de escape, para representar uma barra literal usamos duas: '\\'.
-
-# Tarefa 1: Ler o nome do usuário, da pasta e do arquivo.
-
-
-# Tarefa 2: Imprimir o caminho Windows usando print('C:', 'Users', usuario, pasta, arquivo, sep='\\').
-
-
-# Tarefa 3: Imprimir a URL Web usando sep='/'.
-

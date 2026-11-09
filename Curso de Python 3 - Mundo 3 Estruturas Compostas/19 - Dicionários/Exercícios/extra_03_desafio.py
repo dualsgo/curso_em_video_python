@@ -10,15 +10,3 @@
 #   Limpeza   : ['Detergente', 'Sabão']
 #
 # Dica: .setdefault(cat, []) cria a lista vazia automaticamente na 1ª vez que a categoria aparece e já retorna a lista para o .append()!
-
-# Tarefa 1: Criar o dicionário vazio catalogo = {}.
-
-
-# Tarefa 2: Em um laço de 5 repetições, ler produto e categoria.
-
-
-# Tarefa 3: Usar catalogo.setdefault(categoria, []).append(produto).
-
-
-# Tarefa 4: Percorrer catalogo.items() exibindo cada categoria e seus produtos.
-

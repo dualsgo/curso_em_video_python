@@ -14,12 +14,3 @@
 #   ========================================
 #
 # Dica: Combine {:^40}, {:.<30} e {:>6.2f} nas f-strings.
-
-# Tarefa 1: Ler o nome e o preço do produto 1 e do produto 2.
-
-
-# Tarefa 2: Imprimir o cabeçalho centralizado em 40 caracteres ({'CUPOM FISCAL':^40}).
-
-
-# Tarefa 3: Imprimir cada linha alinhando o nome à esquerda com pontos ({nome:.<30}) e o preço com {preco:>6.2f}.
-

@@ -11,15 +11,3 @@
 #   Status final   -> S1: ONLINE | S2: MANUTENÇÃO | S3: ONLINE
 #
 # Dica: Isso demonstra que reatribuir uma variável com tipo imutável (str) não afeta as demais da atribuição encadeada.
-
-# Tarefa 1: Inicializar servidor_1 = servidor_2 = servidor_3 = 'ONLINE'.
-
-
-# Tarefa 2: Exibir o status inicial dos três servidores.
-
-
-# Tarefa 3: Ler pelo teclado um novo status apenas para servidor_2.
-
-
-# Tarefa 4: Exibir novamente os três servidores.
-

@@ -10,12 +10,3 @@
 #   Lista ordenada: [25, 15, 10, 8, 4, 2] | Total de trocas realizadas: 7
 #
 # Dica: Revise o notebook bubblesort.ipynb desta pasta para lembrar a estrutura da variável booleana 'trocar'!
-
-# Tarefa 1: Ler os 6 números para a lista.
-
-
-# Tarefa 2: Implementar o laço while trocar: com o for comparando elementos vizinhos.
-
-
-# Tarefa 3: Inverter a comparação para '<' (para ordenar decrescente) e contar cada troca realizada.
-

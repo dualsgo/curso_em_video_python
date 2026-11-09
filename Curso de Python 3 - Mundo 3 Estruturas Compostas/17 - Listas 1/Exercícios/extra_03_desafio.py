@@ -11,12 +11,3 @@
 #   Demais tempos (eliminados): [22.8, 23.4, 24.0]
 #
 # Dica: O asterisco (*eliminados) captura automaticamente todos os elementos que sobrarem em uma sublista!
-
-# Tarefa 1: Ler 6 tempos (float) e armazenar na lista.
-
-
-# Tarefa 2: Ordenar a lista com .sort().
-
-
-# Tarefa 3: Desempacotar com ouro, prata, bronze, *eliminados = tempos e exibir o resultado.
-

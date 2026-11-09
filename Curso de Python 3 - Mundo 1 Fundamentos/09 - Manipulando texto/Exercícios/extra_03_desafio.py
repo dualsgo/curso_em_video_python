@@ -11,12 +11,3 @@
 #   CPF Mascarado: 123.***.***-01
 #
 # Dica: Lembre-se que no fatiamento [inicio:fim], o índice 'fim' não é incluído.
-
-# Tarefa 1: Ler os 11 dígitos do CPF.
-
-
-# Tarefa 2: Usar fatiamento cpf[:3], cpf[3:6], cpf[6:9] e cpf[9:] para montar o CPF formatado.
-
-
-# Tarefa 3: Montar e exibir o CPF mascarado ocultando o meio com asteriscos.
-

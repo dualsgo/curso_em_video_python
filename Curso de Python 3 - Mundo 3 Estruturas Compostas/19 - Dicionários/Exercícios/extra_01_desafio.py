@@ -9,15 +9,3 @@
 #   Contagem: {'o': 2, 'rato': 2, 'roeu': 1, ...}
 #
 # Dica: O método .get(chave, 0) retorna 0 quando a palavra ainda não está no dicionário, evitando KeyError!
-
-# Tarefa 1: Ler a frase aplicando .lower().split().
-
-
-# Tarefa 2: Criar um dicionário vazio frequencia = {}.
-
-
-# Tarefa 3: Percorrer cada palavra fazendo frequencia[p] = frequencia.get(p, 0) + 1.
-
-
-# Tarefa 4: Exibir as palavras e suas quantidades.
-

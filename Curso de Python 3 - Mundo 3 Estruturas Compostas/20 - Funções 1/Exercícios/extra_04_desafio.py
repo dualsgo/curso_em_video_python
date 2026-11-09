@@ -13,12 +13,3 @@
 #   Chamada passando lista existente: ['Erro 1', 'Erro 3']
 #
 # Dica: Revisite a seção sobre Parâmetros Padrão Mutáveis adicionada em funcoes.ipynb!
-
-# Tarefa 1: Definir a função usando historico: list = None.
-
-
-# Tarefa 2: Usar 'if historico is None: historico = []' no início da função.
-
-
-# Tarefa 3: Testar chamadas isoladas e chamadas passando uma lista já existente.
-

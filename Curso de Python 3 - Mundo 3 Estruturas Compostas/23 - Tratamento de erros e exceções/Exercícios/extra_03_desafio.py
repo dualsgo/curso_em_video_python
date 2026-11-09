@@ -12,12 +12,3 @@
 #   01: Estudei manipulação de arquivos e POO!
 #
 # Dica: O gerenciador de contexto 'with open(...) as f:' garante o fechamento automático do arquivo!
-
-# Tarefa 1: Ler a anotação do usuário.
-
-
-# Tarefa 2: Abrir 'diario.txt' no modo 'a' (append) com encoding='utf-8' usando o bloco with.
-
-
-# Tarefa 3: Abrir 'diario.txt' no modo 'r' (read) e exibir todas as linhas com enumerate().
-

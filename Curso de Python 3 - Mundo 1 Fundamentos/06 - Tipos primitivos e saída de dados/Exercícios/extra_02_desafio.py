@@ -12,12 +12,3 @@
 #   O número é diferente de zero (Truthy)? False
 #
 # Dica: Strings vazias '' e números 0 / 0.0 são avaliados como False em Python.
-
-# Tarefa 1: Ler o texto com str(input(...)) sem adicionar caracteres extras.
-
-
-# Tarefa 2: Ler o número com float(input(...)).
-
-
-# Tarefa 3: Exibir o resultado de bool(texto) e bool(numero) explicando o resultado.
-

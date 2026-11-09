@@ -12,12 +12,3 @@
 #   Mês 03 -> Saldo: R$ 1636.32
 #
 # Dica: Guarde também o total investido do próprio bolso para comparar com o saldo final acumulado.
-
-# Tarefa 1: Ler o valor inicial, aporte mensal, taxa percentual e número de meses.
-
-
-# Tarefa 2: Em cada iteração do for, aplicar o rendimento sobre o saldo e somar o aporte.
-
-
-# Tarefa 3: Exibir o extrato mês a mês e o lucro líquido final.
-

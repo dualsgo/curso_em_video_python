@@ -10,12 +10,3 @@
 #   Data inválida! 2025 não é bissexto, portanto fevereiro tem apenas 28 dias.
 #
 # Dica: Verifique primeiro se o mês está entre 1 e 12 antes de validar o dia.
-
-# Tarefa 1: Ler dia, mês e ano como inteiros.
-
-
-# Tarefa 2: Calcular se o ano é bissexto: (ano % 4 == 0 and ano % 100 != 0) or (ano % 400 == 0).
-
-
-# Tarefa 3: Determinar o máximo de dias do mês informado e validar se 1 <= dia <= max_dias.
-

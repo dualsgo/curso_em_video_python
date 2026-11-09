@@ -11,12 +11,3 @@
 #   Situação : {'Ana': 'APROVADO', 'Bruno': 'REPROVADO', ...}
 #
 # Dica: Sintaxe: {aluno: ('APROVADO' if nota >= 7 else 'REPROVADO') for aluno, nota in notas_alunos.items()}.
-
-# Tarefa 1: Definir o dicionário notas_alunos.
-
-
-# Tarefa 2: Criar o dicionário aprovados filtrando com if nota >= 7.0.
-
-
-# Tarefa 3: Criar o dicionário situacao usando operador ternário no valor da compreensão.
-

@@ -10,15 +10,3 @@
 #   E-mail gerado: douglas.santos@empresa.com.br
 #
 # Dica: O índice [-1] sempre acessa o último elemento de uma lista resultante do .split()!
-
-# Tarefa 1: Ler o nome completo aplicando .strip() e .lower().
-
-
-# Tarefa 2: Dividir o nome em palavras usando .split().
-
-
-# Tarefa 3: Pegar a primeira palavra (índice 0) e a última palavra (índice -1).
-
-
-# Tarefa 4: Montar e exibir o e-mail corporativo.
-
